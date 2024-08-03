@@ -1,0 +1,19 @@
+/* Add some basic styling for the video section */
+.video-section {
+    padding: 2rem 0;
+    background: #f4f4f4;
+}
+
+.video-section .container {
+    padding: 0 2rem;
+}
+
+.video-section h2 {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.video-section video {
+    display: block;
+    margin: 0 auto;
+}
